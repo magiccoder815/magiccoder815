@@ -7,7 +7,8 @@
 <h2 align="center">Senior Full Stack Engineer <br> 🚀 Python | Go | JavaScript | AI SaaS Solutions | Data Science | Cloud & DevOps 🚀 </h2>
 
 <p align="center">
-  <a href="https://github.com/kaimatsuda29"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack %20Engineer;AI%20Solutions%20Architect;Web%20and%20Mobile%20Master;AI/%20ML%20Engineer;Data%20Science%20Specialist&font=Pacifico&center=true&width=650&height=120&color=27ff00&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/kaimatsuda29"><img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;AI%20Solutions%20Architect;Web%20and%20Mobile%20Master;AI/ML%20Engineer;Data%20Science%20Specialist&font=Pacifico&center=true&width=650&height=120&color=27ff00&vCenter=true&size=45%22"></a>
 </p>
 
 ---
