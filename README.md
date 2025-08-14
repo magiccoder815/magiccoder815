@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h2 align="center">Senior Full Stack Engineer <br> 🚀 Python | Go | JavaScript | AI SaaS Solutions | Data Science | Cloud & DevOps 🚀 </h2>
+<h2 align="center">Senior Full Stack Engineer <br> 🚀 JavaScript | Python | Go | AI SaaS Solutions | Data Science | Cloud & DevOps 🚀 </h2>
 
 <p align="center">
   <a href="https://github.com/kaimatsuda29"><img
