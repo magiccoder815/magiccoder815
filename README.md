@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h2 align="center">Senior Full Stack Engineer <br> 🚀 JavaScript | Python | Go | AI SaaS Solutions | Data Science | Cloud & DevOps 🚀 </h2>
+<h2 align="center">Senior Full Stack Engineer <br> 🚀 JavaScript | Python | Golang | AI SaaS Solutions | Data Science | Cloud & DevOps 🚀 </h2>
 
 <p align="center">
   <a href="https://github.com/kaimatsuda29"><img
@@ -17,7 +17,7 @@
 
 I'm a **Senior Software Engineer & AI Solutions Architect** with **10+ years of experience** delivering scalable, secure platforms across **Fintech**, **Healthcare**, **E-commerce**, **Adtech**, **SaaS**, **Mobile**, and **📱 IoT applications**.
 
--   🧠 Expert in **Python** (**Django**, **FastAPI**, **Flask**) and **Go**, with frontend mastery in **React**, **Next.js**, **Vue**, **Angular** and **TypeScript**
+-   🧠 Expert in **Node.js** (**Express.js**, **NestJS**) **Python** (**Django**, **FastAPI**, **Flask**) and **Go**, with frontend mastery in **React**, **Next.js**, **Vue**, **Angular** and **TypeScript**
 -   🤖 Specialized in building **AI-powered systems** using **OpenAI**, **LangChain**, **Hugging Face**, and **real-time ML pipelines**
 -   💡 Boost productivity with AI dev tools like **GitHub Copilot**, **Cursor**, and **CodeWhisperer**
 -   ☁️ Skilled in **AWS**, **Docker**, **Kubernetes**, and **CI/CD** pipelines for **cloud-native architectures**
